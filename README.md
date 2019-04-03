@@ -1,3 +1,5 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/MIKSby/test-job-for-wargaming-forge-backend/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/MIKSby/test-job-for-wargaming-forge-backend/?branch=master)
+
 Требуется Python >= 3.6
 
 Протестировано на Python 3.6.7
